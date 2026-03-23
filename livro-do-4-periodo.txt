@@ -1,0 +1,98 @@
+Banco de Dados
+
+Bibliografia básica
+DATE, C. J. Introdução à sistemas de bancos de dados. Rio de Janeiro: Campus, 2004.
+ELMASRI, R.; NAVATHE. Sistemas de banco de dados. 6. ed. Pearson Education do Brasil, 2011.
+SILBERSCHATZ, A; KORTH, H. F.; SUDARSHAN, S. Sistema de banco de dados. 6. ed. São Paulo:
+Elsevier, 2012.
+Bibliografia complementar
+CHEN, P. Modelagem de dados: a abordagem entidade-relacionamento para projeto lógico. São
+Paulo: Makron Books, 1990.
+HEUSER, C. A. Projeto de banco de dados. Porto Alegre: Sagra Luzzatto, 1998.
+TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de banco de dados. Rio de
+Janeiro: Campus, 2007.
+
+Estrutura de Dados
+Bibliografia básica
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da programação de computadores:
+algoritmos, Pascal, C/C++ e Java. 2. ed. São Paulo: Pearson, 2008.
+BACKES, A. Estrutura de dados descomplicada em linguagem C. Rio de Janeiro: Elsevier, 2016.
+TENENBAUM, A. M. LAGNSAM, Y.; MOSHE, J. Estruturas de dados usando C. São Paulo: Pearson,
+1995.41
+Bibliografia complementar
+CORMEN, T. H.; et al. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002.
+SCHILDT, H. C: completo e total. São Paulo: Makron Books, 1990.
+ZIVIANI, N. Projeto de algoritmos: com implementações em Java e C++. 3. ed. São Paulo:
+Thomson, 2006.
+
+Introdução à Administração
+Bibliografia básica
+CHIAVENATO, I. Fundamentos de administração: os pilares da gestão no planejamento,
+organização, direção e controle das organizações para incrementar competitividade e
+sustentabilidade. São Paulo: Atlas, 2021.
+MAXIMIANO, A. C. A. Fundamentos da Administração: Introdução à Teoria Geral e aos Processos
+da Administração. Rio de Janeiro: LTC, 2015.
+ROBBINS, S. P.; DECENZO, D. A. Fundamentos da administração: conceitos essenciais e
+aplicações. Pearson: São Paulo, 2004
+Bibliografia complementar
+MAXIMIANO, A. C. A. Introdução à Administração. São Paulo: Atlas, 2017.
+STONER, I. Fundamentos da Administração: Os pilares de gestão no Planejamento, Organização,
+Direção e Controle das Organizações para incrementar a Competitividade e Sustentabilidade.
+2. ed. Atlas: São Paulo, 2021.
+TEIXEIRA, H. J.; SALOMÃO, S. M.; TEIXEIRA, C. J. Fundamentos da Administração: a busca do
+essencial. Rio de Janeiro: Elsevier, 2015.
+
+Probabilidade e Estatística
+Bibliografia básica
+MORETTIN, L.G. Estatística básica: probabilidade. 7. ed. São Paulo: Makron Books, 1999, v. 1.
+SPIEGEL, M. R.; SCHILLER J.; SRINIVASSAN, R. A. Probabilidade e estatística. 2. ed. Porto Alegre:
+Bookman, 2000.
+TRIOLA, M. F. Introdução à estatística. 10. ed. Rio de Janeiro: LTC, 2008.
+Bibliografia complementar
+BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 5. ed. São Paulo: Saraiva, 2006.
+FONSECA, J. S. Curso de estatística. São Paulo: Atlas, 1990.
+SPIEGEL, M. R. Estatística. 3. ed. São Paulo: Makron Books, 1993 (Coleção Schaum).
+
+Projeto Integrador Extensionista IV
+Bibliografia básica
+BRANCO NETO, W. C. Elaboração de Projeto de Pesquisa e Extensão. 2013.
+SÍVERES, Luiz (org.). A Extensão universitária como um princípio de aprendizagem. Brasília, DF:
+Liber Livro, 2013.
+IMPERATORE, S. L. B.; PEDDE, V.; IMPERATORE, J. R. L. Curricularizar a extensão ou
+extensionalizar o currículo? Aportes teóricos e práticas de integração curricular da extensão
+ante a estratégia 12.7 do PNE. In: Colóquio Internacional de Gestão Universitária, 15, 2015, Mar
+del Plata. Anais do XV Colóquio Internacional de Gestão Universitária– CIGU. Mar del Plata, 2015.
+Bibliografia complementar
+BENETTI, P. C.; SOUSA, A. I.; SOUZA, M. H. N. Creditação da extensão universitária nos cursos de
+graduação: relato de experiência. Revista Brasileira de Extensão Universitária, Chapecó, v. 6, n.
+1, p. 25-32, 2015.
+OLIVEIRA, Maria Marly de. Como fazer projetos, relatórios, monografias, dissertações e teses. 5.
+ed., ampl. e atual. segundo nova ortografia e normas da ABNT. Rio de Janeiro: Campus, 2011. 197.
+PONS, E. R. Extensão na educação superior brasileira: motivação para os currículos ou
+"curricularização" imperativa? São Paulo: Mackenzie, 2015.
+
+Redes de Computadores
+
+Bibliografia básica
+KUROSE, J. F.; ROSS, K. W. Redes de computadores e a internet: uma abordagem Top-Down. 6.
+Rio de Janeiro: Pearson , 2013.
+TANENBAUN, A. S. Redes de computadores. 5. ed. Rio de janeiro: Pearson, 2011.
+TORRES, G. Redes de computadores. 2. Ed. rio de janeiro: Novaterra. 2016.
+Bibliografia complementar
+COMER, D. E. Redes de computadores e internet. Porto Alegre: Bookman, 2001.
+MAIA, L. P. Arquitetura de redes de computadores. 2. ed. Rio de Janeiro: LTC 2013.
+MORIMOTO, C. E. Redes: guia prático. Porto Alegre: Sulina, 2010.
+
+Teoria dos Grafos
+Bibliografia básica
+BOAVENTURA NETTO, P. O. Grafos: teoria, modelos, algoritmos. 5. ed. rev. e ampl. São Paulo:
+Edgar Blucher, 2012.
+BONDY, J. A.; Rama Murty, U. S. Graph Theory. Orlando: Springer, 2008.45
+SZWARCFITER, J. L. Grafos e algoritmos computacionais. Rio de Janeiro: Campus, 1988.
+Bibliografia complementar
+BÉLA BOLLOBÁS, B. Modern graph Theory. Springer Verlag, 1998.
+SIPSER, M. Introdução à teoria da computação. 2. ed. Rio de Janeiro: Thompson, 2007.
+VIEIRA, N. J. Introdução aos fundamentos da computação. São Paulo: Pioneira Thomson
+Learning, 2006.
+
+
