@@ -1,0 +1,83 @@
+Arquitetura e Organização de Computadores II
+
+Bibliografia básica
+MONTEIRO, M. A. Introdução à organização de computadores. 5. ed. Rio de Janeiro: LTC, 2007.
+STALLINGS, W. Arquitetura e Organização de Computadores. 8. ed. São Paulo: Pearson Education
+do Brasil, 2010.
+TANENBAUM, A. S. Organização Estruturada de Computadores. 5. ed. São Paulo: Pearson
+Education do Brasil, 2006.
+Bibliografia complementar
+CARTER, N. Arquitetura de computadores - Col. Schaum. Porto Alegre: Bookman, 2003.
+HENNESSY, J. L.; PATTERSON, D. Organização e projeto de computadores: a interface hardware
+software. 3. ed. Rio de Janeiro: Elsevier 2005.
+SEDRA, A. S. Microeletrônica. 5. ed. São Paulo: Pearson Education do Brasil, 2007.
+
+Cálculo Diferencial e Integral II
+Bibliografia básica
+ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. 10. ed. Porto Alegre: Bookman, 2014, v. 2.
+GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2002, v. 2.
+STEWART, James. Cálculo. 8. ed. São Paulo: Cengage Learning, 2016, v. 2.
+Bibliografia complementar
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: funções, limite, derivação, integração. 5. ed. São
+Paulo: Makron, 1992.
+IEZZI, G. Fundamentos de matemática elementar: trigonometria. 8. ed. São Paulo: Atual. 2004,
+v. 3.
+SIMONNS, G. F. Cálculo com geometria analítica. São Paulo: Pearson, 1987, v. 1.
+
+Ética, cidadania e sociedade
+Bibliografia básica
+CARVALHO, José Murilo de. Cidadania no Brasil. O longo Caminho. Rio de Janeiro: Civilização
+Brasileira, 2002.
+MASIERO, Paulo César. Ética em computação. São Paulo: Edusp, 2013.37
+TORRES, João Carlos Brum. Manual de ética: questões de ética teórica e aplicada. Rio de Janeiro:
+Universidade de Caxias do Sul; BNDES, 2014.
+Bibliografia complementar
+ARRUDA, Maria C. C. de; WHITAKER, Maria do C.; RAMOS, José M. R. Fundamentos de ética
+empresarial e econômica. São Paulo: Atlas, 2002.
+BOTELHO, André; SCHWARCZ, Lilia Moritz. Cidadania, um projeto em construção: minorias,
+justiça e direitos. São Paulo: Claro Enigma, 2012.
+PINSKY, Jaime; PINSKY, Carla Bassanezi. História da cidadania. São Paulo: Contexto, 2012.
+
+Geometria Analítica e Álgebra Linear
+Bibliografia básica
+BOULOS, P.; CAMARGO, I. Geometria analítica: um tratamento vetorial. 3. ed. São Paulo: Pearson
+Prentice Hall, 2008.
+AVRITZER, D. Elementos de geometria analítica: uma visão geométrica. Belo Horizonte: UFMG,
+2006.
+STEINBRUCH, A.; WINTERLE, P. Álgebra linear. 2. ed. São Paulo: McGraw-Hill, 1987.
+Bibliografia complementar
+BOLDRINI, J. L. et al. Álgebra linear. 2. ed. Campinas: Harbra, 1980.38
+LIPSCHUTZ, S. Álgebra linear. Rio de Janeiro: McGraw-Hill do Brasil, 1981.
+WINTERLE, P. Vetores e Geometria Analítica. São Paulo: Pearson Makron Books, 2000.
+
+Programação Orientada a Objetos
+Bibliografia básica
+ARAÚJO, E. C. de. Orientação a objetos com Java: simples, fácil e eficiente. 3. ed. Florianópolis:
+Visual Books, 2008.
+BARNES, D. J. Programação orientada a objetos com Java: uma introdução prática usando o Blue
+J. São Paulo: Pearson Education do Brasil, 2004.
+SIERRA, K. Use a cabeça! Java. Rio de Janeiro: Alta Books, 2010.
+Bibliografia complementar
+DEITEL, P. J. Java: como programar. São Paulo: Pearson Education do Brasil, 2010.
+FLANAGAN, D. Java: o guia essencial. 5. ed. Porto Alegre: Bookman, 2006.
+YOURDON, E. Análise e projeto orientado a objetos: estudo de casos. São Paulo: Makron Books,
+1999.
+
+Projeto Integrador Extensionista III
+Bibliografia básica
+BRANCO NETO, W. C. Elaboração de Projeto de Pesquisa e Extensão. 2013.
+SÍVERES, Luiz (org.). A Extensão universitária como um princípio de aprendizagem. Brasília, DF:
+Liber Livro, 2013.
+IMPERATORE, S. L. B.; PEDDE, V.; IMPERATORE, J. R. L. Curricularizar a extensão
+ouextensionalizar o currículo? Aportes teóricos e práticas de integração curricular da extensão
+ante a estratégia 12.7 do PNE. In: Colóquio Internacional de Gestão Universitária, 15, 2015, Mar
+del Plata. Anais do XV Colóquio Internacional de Gestão Universitária– CIGU. Mar del Plata, 2015.
+Bibliografia complementar
+BENETTI, P. C.; SOUSA, A. I.; SOUZA, M. H. N. Creditação da extensão universitária nos cursos de
+graduação: relato de experiência. Revista Brasileira de Extensão Universitária, Chapecó, v. 6, n.
+1, p. 25-32, 2015.
+OLIVEIRA, Maria Marly de. Como fazer projetos, relatórios, monografias, dissertações e teses. 5.
+ed., ampl. e atual. segundo nova ortografia e normas da ABNT. Rio de Janeiro: Campus, 2011. 197.
+PONS, E. R. Extensão na educação superior brasileira: motivação para os currículos ou
+"curricularização" imperativa? São Paulo: Mackenzie, 2015.
+
