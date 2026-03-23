@@ -1,0 +1,69 @@
+Algoritmos e Fundamentos da Programação I
+Bibliografia básica
+BORATTI, I.C.; OLIVEIRA, A.B. Introdução à programação de algoritmos. 3. ed. São Paulo: Visual
+Books, 2007.26
+GUIMARÃES, A. M.; LAGES, N. A. C. Algoritmos e estrutura de dados. Rio de Janeiro: LTC, 1985.
+SZWARCFITER, J. L.; MARKEZON, L. Estrutura de dados e seus algoritmos. Rio de Janeiro: LTC,
+1994.
+
+Bibliografia complementar
+ASCÊNSIO, A. F. G. Lógica de programação com pascal. São Paulo: Pearson Education do Brasil,
+2002.
+BORATTI, I. C.; OLIVEIRA, A. B. Introdução à programação algoritmos. 3. ed. Florianópolis: Visual
+Books, 2008.
+FARRER, H. et al. Algoritmos estruturados: programação estruturada de computadores. Rio de
+Janeiro: LTC, 1999.
+
+Introdução aos Sistemas Digitais
+Bibliografia básica
+TOCCI, R.J.; WIDNER, N.S.; MOSS, G. Sistemas Digitais, 10. ed. São Paulo: Pearson 2011.
+PEDRONI, V. Eletrônica digital moderna e VHDL. Rio de Janeiro: Elsevider, 2010.
+HETEM JR, A. Fundamentos de informática: eletrônica digital. Rio de Janeiro: LTC, 2010.
+Bibliografia complementar
+IDOETA, I. V. Elementos de eletrônica digital. 40ª Edição, Editora Érica, 2010.
+GARCIA, P. A.; MARTINI, S. C. Eletrônica digital: teoria e laboratório. 23. ed. Erica: São Paulo,
+2008.
+SEDRA, S.; SMITH, K. C. Microeletrônica. São Paulo: Pearson Education, 2007.
+
+Lógica para Ciência da Computação
+Bibliografia básica
+ABE, J. M. Introdução à Lógica para a ciência da computação. 2. ed. São Paulo: Arte & Ciência.
+2002.
+SOUZA, J. N. Lógica para ciência da computação. Rio de Janeiro: Campus, 2008.
+______. Lógica para ciência da computação e áreas afins. 3. ed. Rio de Janeiro: Elsevier, 2015.
+Bibliografia complementar
+BITTENCOURT, G. Inteligência artificial: ferramentas e teorias. Florianópolis: UFSC, 1998.
+CHANG, C-L.; R. LEE, C-T. Symbolic logic and mechanical theorem proving. Academic Press, 1973.
+CLOCKSIN, W. F.; Mellish, C. S. Programming in PROLOG. Springer Verlag, 1984.
+
+Pré-calculo
+Bibliografia básica
+IEZZI, G.; MURAKAMI, C. Fundamentos de matemática elementar. São Paulo: Atual, 2004, v. 1 ao
+v. 11.
+MEDEIROS, V. Z.; CALDEIRA, A. M. Pré-cálculo. São Paulo: Thomson, 2005.
+SAFIER, F. Pré-cálculo. Porto Alegre: Artmed, 2005.
+Bibliografia complementar
+DOERING, L. R. Pré-Cálculo. Porto Alegre: UFRGS, 2008.
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: funções, limite, derivação e integração. 6. ed.
+São Paulo: Makron Books, 2006.
+MORETTIN, P. A.; HAZZAN, S.; BUSSAB, W. O. Cálculo: funções de uma e várias variáveis. São
+Paulo: Saraiva, 2003.
+
+PIE 1 - Projeto Integrador Extensionista I
+Bibliografia básica
+BRANCO NETO, W. C. Elaboração de Projeto de Pesquisa e Extensão. 2013.
+SÍVERES, Luiz (org.). A Extensão universitária como um princípio de aprendizagem. Brasília, DF:
+Liber Livro, 2013.
+IMPERATORE, S. L. B.; PEDDE, V.; IMPERATORE, J. R. L. Curricularizar a extensão ou
+extensionalizar o currículo? Aportes teóricos e práticas de integração curricular da extensão
+ante a estratégia 12.7 do PNE. In: Colóquio Internacional de Gestão Universitária, 15, 2015, Mar
+del Plata. Anais do XV Colóquio Internacional de Gestão Universitária– CIGU. Mar del Plata, 2015.
+Bibliografia complementar
+BENETTI, P. C.; SOUSA, A. I.; SOUZA, M. H. N. Creditação da extensão universitária nos cursos de
+graduação: relato de experiência. Revista Brasileira de Extensão Universitária, Chapecó, v. 6, n.
+1, p. 25-32, 2015.
+OLIVEIRA, Maria Marly de. Como fazer projetos, relatórios, monografias, dissertações e teses. 5.
+ed., ampl. e atual. segundo nova ortografia e normas da ABNT. Rio de Janeiro: Campus, 2011. 197.
+PONS, E. R. Extensão na educação superior brasileira: motivação para os currículos ou
+"curricularização" imperativa? São Paulo: Mackenzie, 2015.
+
