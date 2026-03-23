@@ -1,0 +1,82 @@
+Algoritmos e Fundamentos da Programação II
+
+Bibliografia básica
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de Computadores:
+algoritmos, Pascal, C/C++. São Paulo: Prentice Hall, 2012.
+BORATTI, I. C.; OLIVEIRA, A. B. Introdução à programação de algoritmos. 3. Ed. Florianópolis:
+Visual Books, 2007.
+DEITEL, H. M.; DEITEL, P. J. Java: como programar. 4. Ed. Porto Alegre: Bookman, 2003.
+Bibliografia complementar
+JOYANES AGUILAR, L. Programação em C++: algoritmos, estruturas de dados e objetos. São Paulo:
+McGraw-Hill, 2008.
+SZWARCFITER, J. L. Estruturas de dados e seus algoritmos. 3. Ed. Rio de Janeiro: LTC, 2010.
+WIRTH, N. Algoritmos e estruturas de dados. Rio de Janeiro: LTC, 2008.
+
+Arquitetura e Organização de Computadores I
+Bibliografia básica31
+MONTEIRO, M. A. Introdução à organização de computadores. 5. ed. Rio de Janeiro: LTC, 2007.
+STALLINGS, W. Arquitetura e Organização de Computadores. 8. ed. São Paulo: Pearson Education
+do Brasil, 2010.
+TANENBAUM, A. S. Organização Estruturada de Computadores. 5. ed. São Paulo: Pearson
+Education do Brasil, 2006.
+Bibliografia complementar
+CARTER, N. Arquitetura de computadores - Col. Schaum. Porto Alegre: Bookman, 2003.
+HENNESSY, J. L.; PATTERSON, D. Organização e projeto de computadores: a interface hardware
+software. 3. ed. Rio de Janeiro: Elsevier 2005.
+SEDRA, A. S. Microeletrônica. 5. ed. São Paulo: Pearson Education do Brasil, 2007.
+
+Cálculo Diferencial e Integral I
+Bibliografia básica
+ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. 8. ed. São Paulo: Artimed, 2007, v. 1.
+GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. Volume 1. 5ª ed. Rio de Janeiro: Editora LTC,
+2002.32
+STEWART, J. Cálculo. 6. ed. São Paulo: Cengage Learning, 2009, v. 1.
+Bibliografia complementar
+FLEMMING, D. M.; GONÇALVES, M. B. Cálculo A: funções, limite, derivação, integração. 5. ed. São
+Paulo: Makron, 1992.
+IEZZI, G. Fundamentos de matemática elementar: trigonometria. 8. ed. São Paulo: Atual. 2004,
+v. 3.
+SIMONNS, G. F. Cálculo com geometria analítica. São Paulo: Pearson, 1987, v. 1.
+
+Inglês Instrumental
+Bibliografia básica
+CRUZ, D. T. C. Inglês Instrumental para informática. São Paulo: Disal, 2013.
+GLENDINNING, E. H. Basic english for computing. Oxford University Press, Oxford UK, 2003.
+MUNHOZ, R. Inglês Instrumental: estratégias de leitura: São Paulo: Textonovo, 2000.
+Bibliografia complementar
+CRUZ, D. T.; SILVA, A. V.; ROSAS, M. Inglês com textos para informática. São Paulo: Disal, 2003.
+GALANTE, T. P.; LÁZARO, S. P. Inglês básico para informática. São Paulo: Atlas, 1992.
+LONGMAN. Dicionário escolar para estudantes brasileiros. São Paulo: Longman, 2002.
+
+Matemática Discreta
+Bibliografia básica
+GERSTING, J. L. Fundamentos matemáticos para a ciência da computação: um tratamento
+moderno de matemática discreta. Florianópolis: LTC, 2004.
+MENEZES, P. B. Matemática discreta para computação e informática. Porto Alegre: Bookman,
+2004, v. 16.
+ROSEN, K. H. Matemática discreta e suas aplicações. São Paulo: McGraw-Hill, 2009.
+Bibliografia complementar
+EVARISTO, J. Introdução à álgebra com aplicações à ciência da computação. Maceió: EDUFAL,
+1999.
+SCHEINERMAN, E. R. Matemática discreta: uma Introdução. São Paulo: Thomson, 2003.
+SKVARCIUS, R. Discrete mathematics with computer science applications. E.U.A: Benjamin
+Cummings, 1986.
+
+Projeto Integrador Extensionista II
+Bibliografia básica
+BRANCO NETO, W. C. Elaboração de Projeto de Pesquisa e Extensão. 2013.
+SÍVERES, Luiz (org.). A Extensão universitária como um princípio de aprendizagem. Brasília, DF:
+Liber Livro, 2013.
+IMPERATORE, S. L. B.; PEDDE, V.; IMPERATORE, J. R. L. Curricularizar a extensão ou
+extensionalizar o currículo? Aportes teóricos e práticas de integração curricular da extensão
+ante a estratégia 12.7 do PNE. In: Colóquio Internacional de Gestão Universitária, 15, 2015, Mar
+del Plata. Anais do XV Colóquio Internacional de Gestão Universitária– CIGU. Mar del Plata, 2015.
+Bibliografia complementar
+BENETTI, P. C.; SOUSA, A. I.; SOUZA, M. H. N. Creditação da extensão universitária nos cursos de
+graduação: relato de experiência. Revista Brasileira de Extensão Universitária, Chapecó, v. 6, n.
+1, p. 25-32, 2015.
+OLIVEIRA, Maria Marly de. Como fazer projetos, relatórios, monografias, dissertações e teses. 5.
+ed., ampl. e atual. segundo nova ortografia e normas da ABNT. Rio de Janeiro: Campus, 2011. 197.
+PONS, E. R. Extensão na educação superior brasileira: motivação para os currículos ou
+"curricularização" imperativa? São Paulo: Mackenzie, 2015.
+
