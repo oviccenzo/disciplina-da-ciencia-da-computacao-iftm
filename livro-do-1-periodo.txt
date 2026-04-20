@@ -1,3 +1,5 @@
+Todas as diciplina do primeiro periodo
+
 Algoritmos e Fundamentos da Programação I
 Bibliografia básica
 BORATTI, I.C.; OLIVEIRA, A.B. Introdução à programação de algoritmos. 3. ed. São Paulo: Visual
@@ -19,6 +21,7 @@ Bibliografia básica
 TOCCI, R.J.; WIDNER, N.S.; MOSS, G. Sistemas Digitais, 10. ed. São Paulo: Pearson 2011.
 PEDRONI, V. Eletrônica digital moderna e VHDL. Rio de Janeiro: Elsevider, 2010.
 HETEM JR, A. Fundamentos de informática: eletrônica digital. Rio de Janeiro: LTC, 2010.
+
 Bibliografia complementar
 IDOETA, I. V. Elementos de eletrônica digital. 40ª Edição, Editora Érica, 2010.
 GARCIA, P. A.; MARTINI, S. C. Eletrônica digital: teoria e laboratório. 23. ed. Erica: São Paulo,
@@ -31,6 +34,7 @@ ABE, J. M. Introdução à Lógica para a ciência da computação. 2. ed. São 
 2002.
 SOUZA, J. N. Lógica para ciência da computação. Rio de Janeiro: Campus, 2008.
 ______. Lógica para ciência da computação e áreas afins. 3. ed. Rio de Janeiro: Elsevier, 2015.
+
 Bibliografia complementar
 BITTENCOURT, G. Inteligência artificial: ferramentas e teorias. Florianópolis: UFSC, 1998.
 CHANG, C-L.; R. LEE, C-T. Symbolic logic and mechanical theorem proving. Academic Press, 1973.
@@ -58,6 +62,7 @@ IMPERATORE, S. L. B.; PEDDE, V.; IMPERATORE, J. R. L. Curricularizar a extensão
 extensionalizar o currículo? Aportes teóricos e práticas de integração curricular da extensão
 ante a estratégia 12.7 do PNE. In: Colóquio Internacional de Gestão Universitária, 15, 2015, Mar
 del Plata. Anais do XV Colóquio Internacional de Gestão Universitária– CIGU. Mar del Plata, 2015.
+
 Bibliografia complementar
 BENETTI, P. C.; SOUSA, A. I.; SOUZA, M. H. N. Creditação da extensão universitária nos cursos de
 graduação: relato de experiência. Revista Brasileira de Extensão Universitária, Chapecó, v. 6, n.
