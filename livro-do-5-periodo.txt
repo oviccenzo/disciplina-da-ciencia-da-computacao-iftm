@@ -28,3 +28,31 @@ Bibliografia complementar
 CUTNELL, J. D.; JOHNSON, K. W. Física .Vol. 1. 1ª Ed. LCT, 2006.
 GASPAR, A. Física Mecânica. São Paulo: Ed. Ática, 2000.
 NUSSENZVEIG, M. Curso de Física Básica: Mecânica. 4ª Ed. Editora Edgard Blucher, 2003.
+
+Linguagens Formais e Autômatos
+Bibliografia básica
+HOPCROFT, J. E., MOTWANI, R., ULLMAN, J. D. Introdução à Teoria de Autômatos, Linguagens e
+Computação, Ed. Campus, 2002.
+SIPSER, M. Introdução à Teoria da Computação, Editora Thompson, 2a ed., 2007.
+VIEIRA, N. J. Introdução aos Fundamentos da Computação. São Paulo: Pioneira Thomson, 2006.
+
+Bibliografia complementar
+CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L. & STEIN, C. Algoritmos - Teoria e Prática. Ed.
+Campus, 2002.
+MENEZES, P. F. B. Linguagens Formais e Autômatos. P. Alegre: Sagra Luzzatto, 2004 (4a. Ed).
+ZIVIANI, N. Projeto de Algoritmos: com Implementações em Java e C++. 3a Ed., Thomson, 2006.
+
+Programação para Internet I
+Bibliografia básica
+COMER, D. E. Redes de Computadores e internet: abrange transmissão de dados, ligações inter-
+redes, web e aplicações. 4ª Edição. Porto Alegre: Bookman, 2007.
+PROFFITT, B. XHTML: Desenvolvimento Web. São Paulo: Makron Books, 2001.
+SILVA. M. S. HTML 5: a linguagem de marcação que revolucionou a Web. São Paulo: Novatec,
+2011.
+
+Bibliografia complementar
+BEAIRD, J. Princípios do web design maravilhoso. Rio de Janeiro: Alta Books, 2008.
+BREITMAN, K. K. Web semântica: a internet do futuro. Rio de Janeiro: LTC, 2006.
+NIEDERST, J. Aprenda Web Design. Rio de Janeiro: Ciência Moderna, 2002.
+
+Sistemas Operacionais
