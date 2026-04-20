@@ -1,1 +1,15 @@
-livro-do-4-periodo.txt
+Engenharia de Software I
+
+Bibliografia básica
+PRESSMAN, R. S. Engenharia de software: uma abordagem profissional. São Paulo: McGraw Hill,
+2011.
+SILVA, A. de A. Metodologia e projeto de software orientado a objetos: modelando, projetando
+e desenvolvendo sistemas com UML e componentes distribuídos. São Paulo: Erica, 2003.
+SOMMERVILLE, I. Engenharia de software. São Paulo: Pearson Education do Brasil, 2011.
+
+Bibliografia complementar
+PAULA FILHO, W. de P. Engenharia de software: fundamentos, métodos e padrões. Rio de
+Janeiro: LTC, 2003.
+
+PFLEEGER, S. L. Engenharia de software: teoria e prática. São Paulo: Prentice Hall do Brasil, 2004.
+YOURDON, E. Projetos virtualmente impossíveis. São Paulo: Makron Books, 1999.
