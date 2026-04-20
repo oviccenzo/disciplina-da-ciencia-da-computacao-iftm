@@ -1,3 +1,4 @@
+Todas as diciplina do quinto periodo
 Engenharia de Software I
 
 Bibliografia básica
@@ -13,3 +14,17 @@ Janeiro: LTC, 2003.
 
 PFLEEGER, S. L. Engenharia de software: teoria e prática. São Paulo: Prentice Hall do Brasil, 2004.
 YOURDON, E. Projetos virtualmente impossíveis. São Paulo: Makron Books, 1999.
+
+
+fisica 
+Bibliografia básica
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros - Mecânica, Oscilações e Ondas,
+Termodinâmica. 5ª Ed. LTC, 2006.
+HALLIDAY, D.; RESNICK, R.; E. WALKER, J. Fundamentos da Física. Vol. 1. 4ª Ed. Rio de Janeiro:
+Livros Técnicos e Científicos, 1996.
+YOUNG, H. D.; FREEDMAN, R. A. F. Física I. 10ª Ed. Prentice-Hall, 2004.
+
+Bibliografia complementar
+CUTNELL, J. D.; JOHNSON, K. W. Física .Vol. 1. 1ª Ed. LCT, 2006.
+GASPAR, A. Física Mecânica. São Paulo: Ed. Ática, 2000.
+NUSSENZVEIG, M. Curso de Física Básica: Mecânica. 4ª Ed. Editora Edgard Blucher, 2003.
